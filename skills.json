@@ -2,5 +2,20 @@
     {
         "name": "Python",
         "icon": "https://img.icons8.com/fluency/48/python.png"
-    }  
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/ios-filled/50/django.png"
+    },
+    {
+        "name": "RestAPI",
+        "icon": "https://img.icons8.com/windows/32/api-settings.png"
+    },{
+        "name": "SQL",
+        "icon": "https://img.icons8.com/ios-glyphs/30/sql.png"
+    }
 ]
