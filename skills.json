@@ -9,13 +9,13 @@
     },
     {
         "name": "Django",
-        "icon": "https://img.icons8.com/ios-filled/50/django.png"
+        "icon": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-light-tal-revivo.png"
     },
     {
         "name": "RestAPI",
-        "icon": "https://img.icons8.com/windows/32/api-settings.png"
+        "icon": "https://img.icons8.com/ios/50/api-settings.png"
     },{
         "name": "SQL",
-        "icon": "https://img.icons8.com/ios-glyphs/30/sql.png"
+        "icon": "https://img.icons8.com/ios/50/sql.png"
     }
 ]
